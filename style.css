@@ -1,0 +1,265 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+nav
+{
+
+    background-color: rgb(106, 204, 235);
+    height: 70px;
+    width:100%;
+    z-index: 1;
+}
+
+.logo
+{
+    font-size: 25px;
+    position: relative;
+    left: 5%;
+    color: white;
+    font-weight: bold;
+    line-height: 70px;
+}
+
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+
+ul li
+{
+display: inline-block; 
+line-height: 70px;  
+margin:0 5px;
+}
+
+
+ul li a
+{
+
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+.main_img
+{
+  width: 100%; 
+  height: 600px; 
+}
+.section1
+{
+  padding: top 30px; 
+}
+
+.img_text
+{
+    position: absolute;
+    top: 20%;
+    left:30%;
+    color: white;
+    background-color: blue;
+
+    padding-right:50px;
+    padding-left: 70px;
+    font-size: 20px;
+    height: 30px;
+
+}
+
+.welcome_img
+{
+width: 100%;
+height: 200px;
+
+}
+.container
+{
+    padding-top: 55px;
+}
+
+.teacher_1{
+    width: 90%;
+    height: 200px;
+}
+
+.container{
+    padding-top: 60px;
+    grid-row: auto;
+    
+}
+
+.box2{
+    padding-top: 30px;
+    
+
+}
+.box3{
+    padding-top: 30px;
+
+}
+
+.box1{
+    padding-top: 30px;
+    
+}
+
+
+.container{
+    padding-top: 60px;
+    grid-row: auto;
+    
+}
+
+.box12{
+    padding-top: 30px;
+    
+
+}
+.box13{
+    padding-top: 30px;
+    
+}
+
+.box11{
+    padding-top: 30px;
+    
+}
+
+.label_text{
+  display:inline-block;
+  width:100px;
+  text-align: right;  
+  padding-right: 10px;
+
+}
+
+.input_design
+{
+    width: 30%;
+    height: 30px;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: 1 px solid rgb(32, 32, 73);
+
+}
+
+.adm_int
+{
+padding-top: 10px;
+}
+
+.input_txt{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    padding-left: 20px;+
+    border: 1 px solid blue;
+   
+}
+
+.container1{
+    display: flex;
+    width: 90%;
+    text-align: center;
+    margin-left: 58px;
+}
+
+.box1, .box2, .box3{
+    width: 33%;
+}
+
+
+.container2{
+    display: flex;
+    width: 90%;
+    text-align: center;
+    margin-left: 58px;
+}
+
+.box11, .box12, .box13{
+    width: 33%;
+}
+#submit
+{
+    position: relative;
+    width: 15%;
+    left: 5%;
+    color: blue;
+}
+
+footer
+{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
+
+.footer_txt
+{
+   text-align: center;
+   color: aliceblue; 
+   top: 20%;
+   position: relative;
+}
+
+.adm_int
+{
+    padding: top 10px;
+    padding-bottom:10px;
+
+}
+.form_deg{
+    padding-top: 200px;
+    
+
+}
+
+.label_deg
+{
+    display: inline-block;
+    color: skyblue;
+    width: 100px;
+    text-align: right;
+    padding-top:10px ;
+    padding-bottom: 10px;
+
+}
+
+.login_deg
+{
+    background-color: black;
+    width: 450px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.title_deg
+{
+background-color: skyblue;
+color:white;
+text-align: center;
+font-weight: bold;
+width: 450px;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size:20px;
+
+}
+    
+.today_deg
+{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+
+
+
+
+   
+
+
